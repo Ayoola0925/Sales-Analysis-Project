@@ -18,6 +18,9 @@
 This project explores sales data to uncover key trends, identify growth opportunities, and address performance gaps. Using Power BI, I transformed raw data into an interactive dashboard, providing actionable insights for better decision-making.
 
 
+![Sales Dashboard](https://github.com/user-attachments/assets/97cf8b9b-4b63-4dd2-8ea8-20c69de43dc3)
+
+
 ### Data Source
 
 Financial Data: The primary data used for this analysis is the "Financial_data.csv" file, containing datailed information about sales of each products and countries.
